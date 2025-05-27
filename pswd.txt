@@ -1,0 +1,4 @@
+# This is a placeholder file. Add actual passwords here, one per line.
+password
+123456
+qwerty
